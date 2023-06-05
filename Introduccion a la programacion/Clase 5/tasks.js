@@ -10,18 +10,18 @@ const returnF = require('./comandos/return')
 
 switch(process.argv[2]){
     case 'find':
-        findF(process.argv[3])
+        console.log(findF(process.argv[3]))
         break;
     case 'edit':
-        editF(process.argv[3], process.argv[4])
+        console.log(editF(process.argv[3], process.argv[4]))
         break;
     case 'filter':
-        filterF(process.argv[3])
+        console.log(filterF(process.argv[3]))
         break;
     case 'return':
-        returnF(process.argv[3])
+        console.log(returnF(process.argv[3]))
         break;
     case 'list':
-        listF()
+        console.log(listF())
         break;
 }

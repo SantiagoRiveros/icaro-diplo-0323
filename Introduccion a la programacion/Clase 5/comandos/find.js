@@ -11,7 +11,6 @@ function findF(argument){
         }
     }
     //si no la encontro nunca devuelve false
-    console.log(bool)
     return bool;
 }
 

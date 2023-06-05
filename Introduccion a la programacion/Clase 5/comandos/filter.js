@@ -9,7 +9,6 @@ function filterF(title){
   for (let i = 0; i < tasks.length; i++) {
     if (tasks[i].title.includes(title)) filteredTasks.push(tasks[i])
   }
-  console.log(filteredTasks)
   return filteredTasks
 }
 

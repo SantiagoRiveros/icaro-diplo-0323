@@ -9,12 +9,10 @@ function returnF(title){
         //coincide con el que entra como argumento
         if(tasksData[i].title === title){
             //retorno su descripcion
-            console.log(tasksData[i].desc)
             return tasksData[i].desc
         }
     }
     // si no lo encontro, que devuelva null (valor nulo)
-    console.log(null)
     return null
 }
 

@@ -12,7 +12,6 @@ function listF(){
         newArray.push(tasksData[i].title)
     }
     //retornamos el nuevo array
-    console.log(newArray)
     return newArray
 }
 
