@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ricardo",
+    "apellido": "Darin",
+    "peliculas": {
+      "nombre": "El Secreto de sus ojos"
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Tom",
+    "apellido": "Cruise",
+    "peliculas": {
+      "nombre": "Mision Imposible"
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Tom",
+    "apellido": "hanks",
+    "peliculas": {
+      "nombre": "Forrest Gump"
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Tom",
+    "apellido": "hanks",
+    "peliculas": {
+      "nombre": "Forrest Gump"
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Tom",
+    "apellido": "hanks",
+    "peliculas": {
+      "nombre": "Forrest Gump"
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Tom",
+    "apellido": "hanks",
+    "peliculas": {
+      "nombre": "Forrest Gump"
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Tom",
+    "apellido": "hanks",
+    "peliculas": {
+      "nombre": "Forrest Gump"
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Tom",
+    "apellido": "hanks",
+    "peliculas": {
+      "nombre": "Forrest Gump"
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Tom",
+    "apellido": "hanks",
+    "peliculas": {
+      "nombre": "Forrest Gump"
+    }
+  }
+]
