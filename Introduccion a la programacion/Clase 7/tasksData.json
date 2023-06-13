@@ -1,0 +1,30 @@
+[
+  {
+    "title": "cabalgar",
+    "desc": "andar a caballo"
+  },
+  {
+    "title": "cantar",
+    "desc": "entonar canciones"
+  },
+  {
+    "title": "comer",
+    "desc": "ingerir alimentos"
+  },
+  {
+    "title": "correr",
+    "desc": "desplazarse a gran velocidad"
+  },
+  {
+    "title": "cumplir",
+    "desc": "hacer lo prometido"
+  },
+  {
+    "title": "encantar",
+    "desc": "realizar un encantamiento"
+  },
+  {
+    "title": "saltar",
+    "desc": "ganar elevacion"
+  }
+]

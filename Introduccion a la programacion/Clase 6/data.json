@@ -1,1 +1,38 @@
-[{"id":1,"nombre":"Ricardo","apellido":"Darin","peliculas":{"nombre":"El Secreto de sus ojos"}},{"id":2,"nombre":"Tom","apellido":"Cruise","peliculas":{"nombre":"Mision Imposible"}},{"nombre":"Carlos","apellido":"Villagran","peliculas":{"nombre":"El Chavo"},"id":1},{"nombre":"Carlos","apellido":"Villagran","peliculas":{"nombre":"El Chavo"},"id":3},{"nombre":"Carlos","apellido":"Villagran","peliculas":{"nombre":"El Chavo"},"id":4},{"nombre":"Carlos","apellido":"Villagran","peliculas":{"nombre":"El Chavo"},"id":5}]
+[
+  {
+    "id": 1,
+    "nombre": "Ricardo",
+    "apellido": "Darin",
+    "peliculas": { "nombre": "El Secreto de sus ojos" }
+  },
+  {
+    "id": 2,
+    "nombre": "Tom",
+    "apellido": "Cruise",
+    "peliculas": { "nombre": "Mision Imposible" }
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "Villagran",
+    "peliculas": { "nombre": "El Chavo" },
+    "id": 1
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "Villagran",
+    "peliculas": { "nombre": "El Chavo" },
+    "id": 3
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "Villagran",
+    "peliculas": { "nombre": "El Chavo" },
+    "id": 4
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "Villagran",
+    "peliculas": { "nombre": "El Chavo" },
+    "id": 5
+  }
+]
