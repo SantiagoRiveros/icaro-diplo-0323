@@ -1,0 +1,12 @@
+{
+  "name": "ejemplo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "execute": "node tasks.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
