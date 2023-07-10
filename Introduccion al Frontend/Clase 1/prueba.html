@@ -1,0 +1,63 @@
+<!-- Primero siempre el !DOCTYPE html en una etiqueta -->
+<!DOCTYPE html>
+<!-- Luego, todo el documento html va "envuelto" en una etiqueta html -->
+<html>
+  <!-- La parte visible del documento, va dentro de una etiqueta body -->
+
+  <!-- Declaramos una seccion Head, que va a contener, entre otras cosas, el estilo. -->
+  <head> 
+<!--     <style>
+        /* Selector de Elementos */
+        h1{
+            background-color: red;
+        }
+        /* Selector por id */
+        #messi{
+            background-color: blueviolet;
+        }
+        /* Selector de Clase */
+        .messiEsCapo{
+            background-color: yellow;
+        }
+        p{
+            background-color: rgb(255, 102, 0);
+        }
+        #abuela{
+            background-color: #FF6600;
+        }
+        .messiContainer{
+            background-color: aqua;
+        }
+        .messiWrapeado{
+            color:white
+        }
+        #messiHaceLio{
+            background-color: black;
+            opacity: 0.5;
+        }
+    </style> -->
+    <!-- OTRA FORMA DE LINKEAR EL CSS -->
+ <!--    Creamos la etiqueta link, con los atributos:
+    rel="stylesheet" type="text/css"
+    y href="nombre del archivo" -->
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+  <body>
+    <h1 >VAMOS MESSI</h1>
+    <h2 >VAMOS MESSI</h2>
+    <h3 id="messi">VAMOS MESSI</h3>
+    <h1 >VAMOS MESSI</h1>
+    <h2 class="messiEsCapo">Messi es Capo</h2>
+
+    <p>Segundo Francia</p>
+
+    <h4 id="abuela">lalalalala</h4>
+
+    <div class="messiContainer">
+        <h4 class="messiWrapeado">VAMOS MESSI</h4>
+        <h4 id="messiHaceLio">VAMOS MESSI</h4>
+        <h4 class="messiWrapeado">VAMOS MESSI</h4>
+    </div>
+
+  </body>
+</html>

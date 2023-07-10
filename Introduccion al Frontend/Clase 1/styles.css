@@ -1,0 +1,28 @@
+/* Selector de Elementos */
+h1{
+    background-color: red;
+}
+/* Selector por id */
+#messi{
+    background-color: blueviolet;
+}
+/* Selector de Clase */
+.messiEsCapo{
+    background-color: yellow;
+}
+p{
+    background-color: rgb(255, 102, 0);
+}
+#abuela{
+    background-color: #FF6600;
+}
+.messiContainer{
+    background-color: aqua;
+}
+.messiWrapeado{
+    color:white
+}
+#messiHaceLio{
+    background-color: black;
+    opacity: 0.5;
+}

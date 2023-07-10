@@ -1,0 +1,76 @@
+/* 320px — 480px: Mobile devices
+481px — 768px: iPads, Tablets
+769 */
+/* .Hola{
+    color:chartreuse
+} */
+
+/* MOVILES */
+/* @media (max-width: 480px){
+    .MediaQueries{
+        background-color: orange;
+       } 
+    .Pollito{
+        color:aqua
+    }
+    .Hola{
+        color:white
+    }
+} */
+
+/* TABLETS */
+/* @media (min-width: 481px) and (max-width: 768px){ 
+   .MediaQueries{
+    background-color: springgreen;
+   }
+   .Pollito{
+    color:blue
+   }
+}
+ */
+/* DESKTOP y MAS */
+/* @media (min-width: 769px){
+    .MediaQueries{
+        background-color: blueviolet;
+    }
+    .Pollito{
+        display: none;
+    }
+} */
+
+/* MOBILE FIRST */
+ h3{
+    color: red
+}
+.textoParaDesktop{
+    display: none;
+}
+
+
+/* Primero el @ luego la palabra clave media
+seguido de la regla que vamos a hacer alusion (En este caso el min-width o el minimo de ancho) */
+@media (min-width: 769px){
+    h3{
+        color: purple
+    }
+    .textoParaDesktop{
+        display: block;
+    }
+} 
+
+/* DESKTOP FIRST */
+/* h3{
+    color: purple
+}
+.textoParaDesktop{
+    display: block;
+}
+
+@media (max-width: 768px){
+    h3{
+        color: red
+    }
+    .textoParaDesktop{
+        display: none;
+    }
+} */
