@@ -1,0 +1,14 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    height: 30%;
+    margin: auto;
+}
+
+.botonera{
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+    justify-content: space-around;
+}

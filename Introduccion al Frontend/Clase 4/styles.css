@@ -1,0 +1,19 @@
+.enFila{
+    display: flex;
+    flex-direction: row;
+}
+
+.enFilaReversa{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.enColumna{
+    display: flex;
+    flex-direction: column;
+}
+
+.enColumnaReversa{
+    display: flex;
+    flex-direction: column-reverse;
+}
